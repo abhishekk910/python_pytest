@@ -1,0 +1,1 @@
+Fixtures are functions which will run before and after each test case to which those are applied.
